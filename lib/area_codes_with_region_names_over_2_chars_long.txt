@@ -1,0 +1,29 @@
+242Bahamas
+246Barbados
+264Anguilla
+268Antigua and Barbuda
+284British Virgin Islands
+340USVI
+345Cayman Islands
+441Bermuda
+456Reserved
+473Grenada
+500Reserved
+600Reserved
+649Turks & Caicos Islands
+664Montserrat
+700Reserved
+710US Government
+758St. Lucia
+767Dominica
+784St. Vincent & Grenadines
+800Toll Free
+809Dominican Republic
+829Dominican Republic
+866Toll Free
+868Trinidad & Tobago
+869St. Kitts & Nevis
+876Jamaica
+877Toll Free
+888Toll Free
+900Toll Calls
